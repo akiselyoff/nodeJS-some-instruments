@@ -1,0 +1,10 @@
+### folders
+
+node_modules/
+
+### configs
+
+.vscode
+.idea
+.prettierrc.json
+.env
